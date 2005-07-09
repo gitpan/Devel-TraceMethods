@@ -1,5 +1,13 @@
 Changes
+Build.PL
+lib/Devel/TraceMethods.pm
 Makefile.PL
 MANIFEST
-test.pl
-TraceMethods.pm
+META.yml
+README
+SIGNATURE
+t/base.t
+t/callback.t
+t/pod.t
+t/pod-coverage.t
+SIGNATURE    Added here by Module::Build
